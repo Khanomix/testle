@@ -69,11 +69,11 @@ class BotTimes:
 
 
 class Paths:
-    WORK_PATH = "/app/BOT_WORK"
-    THMB_PATH = "/app/colab_leecher/Thumbnail.jpg"
+    WORK_PATH = "/app/Telegram-Leecher/BOT_WORK"
+    THMB_PATH = "/app/Telegram-Leecher/colab_leecher/Thumbnail.jpg"
     VIDEO_FRAME = f"{WORK_PATH}/video_frame.jpg"
     HERO_IMAGE = f"{WORK_PATH}/Hero.jpg"
-    DEFAULT_HERO =  "/app/custom_thmb.jpg"
+    DEFAULT_HERO =  "/app/Telegram-Leecher/custom_thmb.jpg"
     MOUNTED_DRIVE = "/app/drive"
     down_path = f"{WORK_PATH}/Downloads"
     temp_dirleech_path = f"{WORK_PATH}/dir_leech_temp"
